@@ -23,4 +23,5 @@ Training repo to manage a GitHub repositories and projects.
 8. Now I am editing this readme file to learn
   - first thing I have learned that how to clone the repository from github
   - second thing is how I can edit this readme file
+  - hi there
 
