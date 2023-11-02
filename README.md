@@ -20,7 +20,4 @@ Training repo to manage a GitHub repositories and projects.
    - set upstream url
      - ```git remote add upstream <INSERT SSH ORIGIN OF ORIGINAL REPO>```
    - update your forked version (see Workflow to update your forked version in [contributing](./contributing.md))
-8. Now I am editing this readme file to learn
-  - first thing I have learned that how to clone the repository from github
-  - second thing is how I can edit this readme file
-
+it's nice to learn new things
